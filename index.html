@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Docsify-Guide</title>
+    <title>PD.Mars</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description" content="Description">
     <meta name="viewport"
@@ -13,6 +13,37 @@
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <!-- 默认主题 -->
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+    <style>
+        h1:hover:before {
+          content: "# ";
+          font-size: 18px;
+        }
+  
+        h2:hover:before {
+          content: "## ";
+          font-size: 16px;
+        }
+  
+        h3:hover:before {
+          content: "### ";
+          font-size: 14px;
+        }
+  
+        h4:hover:before {
+          content: "#### ";
+          font-size: 12px;
+        }
+  
+        h5:hover:before {
+          content: "##### ";
+          font-size: 10px;
+        }
+  
+        h6:hover:before {
+          content: "###### ";
+          font-size: 8px;
+        }
+      </style>
 </head>
 
 <body>
@@ -21,7 +52,7 @@
     <script>
         window.$docsify = {
             // 项目名称
-            name: 'PD.Mar_DigitalGarden',
+            name: 'PD.Mars_DigitalGarden',
             // 仓库地址，点击右上角的Github章鱼猫头像会跳转到此地址
             repo: 'https://github.com/Mokadao/Mokadao.github.io',
             // 侧边栏支持，默认加载的是项目根目录下的_sidebar.md文件
