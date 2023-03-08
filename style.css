@@ -32,7 +32,7 @@ h1 {
   h1:after {
     content: "";
     display: block;
-    border-bottom: 1px solid rgb(95, 95, 95);
+    border-bottom: 1px solid rgb(197, 197, 197);
     margin-top: 5px;
   }
   
