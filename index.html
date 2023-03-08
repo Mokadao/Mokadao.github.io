@@ -14,35 +14,71 @@
     <!-- 默认主题 -->
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
     <style>
-        h1:hover:before {
-          content: "# ";
-          font-size: 18px;
-        }
-  
-        h2:hover:before {
-          content: "## ";
-          font-size: 16px;
-        }
-  
-        h3:hover:before {
-          content: "### ";
-          font-size: 14px;
-        }
-  
-        h4:hover:before {
-          content: "#### ";
-          font-size: 12px;
-        }
-  
-        h5:hover:before {
-          content: "##### ";
-          font-size: 10px;
-        }
-  
-        h6:hover:before {
-          content: "###### ";
-          font-size: 8px;
-        }
+         h1 {
+        position: relative;
+      }
+
+      h1:before {
+        content: "# ";
+        font-size: 18px;
+        position: absolute;
+        left: -20px;
+      }
+
+      h2 {
+        position: relative;
+      }
+
+      h2:before {
+        content: "## ";
+        font-size: 16px;
+        position: absolute;
+        left: -20px;
+      }
+
+      h3 {
+        position: relative;
+      }
+
+      h3:before {
+        content: "### ";
+        font-size: 14px;
+        position: absolute;
+        left: -20px;
+      }
+
+      h4 {
+        position: relative;
+      }
+
+      h4:before {
+        content: "#### ";
+        font-size: 12px;
+        position: absolute;
+        left: -20px;
+      }
+
+      h5 {
+        position: relative;
+      }
+
+      h5:before {
+        content: "##### ";
+        font-size: 10px;
+        position: absolute;
+        left: -20px;
+      }
+
+      h6 {
+        position: relative;
+      }
+
+      h6:before {
+        content: "###### ";
+        font-size: 8px;
+        position: absolute;
+        left: -20px;
+      }
       </style>
 </head>
 
