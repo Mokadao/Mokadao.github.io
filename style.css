@@ -24,7 +24,7 @@ h1 {
 
 
   body {
-    line-height: 1.2;
+    line-height: 1;
   }
   
 
@@ -33,7 +33,7 @@ h1 {
     content: "";
     display: block;
     border-bottom: 1px solid rgb(231, 231, 231);
-    margin-top: 5px;
+    margin-top: 4px;
   }
   
 
