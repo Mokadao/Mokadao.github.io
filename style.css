@@ -32,35 +32,46 @@ h1 {
     content: "# ";
     font-size: 2em;
     margin-right: 10px;
+    position: absolute;
+    margin-left: -40px;
   }
   
   h2:hover:before {
     content: "## ";
     font-size: 1.5em;
     margin-right: 10px;
+    position: absolute;
+    margin-left: -40px;
   }
   
   h3:hover:before {
     content: "### ";
     font-size: 1.2em;
     margin-right: 10px;
+    position: absolute;
+    margin-left: -40px;
   }
   
   h4:hover:before {
     content: "#### ";
     font-size: 1em;
     margin-right: 10px;
+    position: absolute;
+    margin-left: -40px;
   }
   
   h5:hover:before {
     content: "##### ";
     font-size: 0.9em;
     margin-right: 10px;
+    position: absolute;
+    margin-left: -40px;
   }
   
   h6:hover:before {
     content: "###### ";
     font-size: 0.8em;
     margin-right: 10px;
+    position: absolute;
+    margin-left: -40px;
   }
-  
