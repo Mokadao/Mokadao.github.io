@@ -32,56 +32,12 @@ h1 {
   h1:after {
     content: "";
     display: block;
-    border-bottom: 1px solid black;
-    margin-top: 10px;
+    border-bottom: 1px solid rgb(95, 95, 95);
+    margin-top: 5px;
   }
   
 
-
-  h1:hover:before {
-    content: "# ";
-    font-size: 2em;
-    margin-right: 10px;
-    position: absolute;
-    margin-left: -40px;
+  h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0.5em;
   }
   
-  h2:hover:before {
-    content: "## ";
-    font-size: 1.5em;
-    margin-right: 10px;
-    position: absolute;
-    margin-left: -40px;
-  }
-  
-  h3:hover:before {
-    content: "### ";
-    font-size: 1.2em;
-    margin-right: 10px;
-    position: absolute;
-    margin-left: -40px;
-  }
-  
-  h4:hover:before {
-    content: "#### ";
-    font-size: 1em;
-    margin-right: 10px;
-    position: absolute;
-    margin-left: -40px;
-  }
-  
-  h5:hover:before {
-    content: "##### ";
-    font-size: 0.9em;
-    margin-right: 10px;
-    position: absolute;
-    margin-left: -40px;
-  }
-  
-  h6:hover:before {
-    content: "###### ";
-    font-size: 0.8em;
-    margin-right: 10px;
-    position: absolute;
-    margin-left: -40px;
-  }
