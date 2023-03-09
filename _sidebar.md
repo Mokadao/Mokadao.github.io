@@ -13,6 +13,7 @@
   * [🤖ChatGPT](/ProjectDocs/🤖ChatGPT.md)
   * 笔记类软件
     * Obsidian
+* SHEEP
 * 技术备忘
   * [📡个人网站搭建](/ProjectDocs/📡个人网站搭建.md)
   * [📺Win系统](/ProjectDocs/📺Win系统.md)
