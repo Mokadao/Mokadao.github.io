@@ -48,7 +48,7 @@ h1 {
     margin-bottom: 0.5em;
   }
   
-  h2:hover, h3:hover, h4:hover, h5:hover, h6:hover, p:hover {
+  body *:not(h1):hover {
     background-color: #e8f1ea;
   }
   
