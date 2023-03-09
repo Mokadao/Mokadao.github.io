@@ -1,9 +1,18 @@
 * 每日FLow
 * CG技术
   * CG工作流 
+  * Blender
+  * Reallusion
   * UE5
-* 其他技能
+* 关注领域
+ * 个人管理
+ * 学习方法
+ * 心理学
+ * 内分泌脑科学与行为
+* 软件工具
   * [🤖ChatGPT](/ProjectDocs/🤖ChatGPT.md)
+  * 笔记类软件
+    * Obsidian
 * 技术备忘
   * [📡个人网站搭建](/ProjectDocs/📡个人网站搭建.md)
   * [📺Win系统](/ProjectDocs/📺Win系统.md)
