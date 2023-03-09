@@ -3,15 +3,15 @@ h1 {
   }
   
   h2 {
-    opacity: 0.7;
+    opacity: 0.9;
   }
   
   h3 {
-    opacity: 0.4;
+    opacity: 0.7;
   }
   
   h4 {
-    opacity: 0.4;
+    opacity: 0.5;
   }
   
   h5 {
@@ -48,3 +48,34 @@ h1 {
   h2, h3, h4, h5, h6 {
     font-size: 1.2em !important;
   }
+
+
+h2:before {
+  content: "## ";
+  color: green;
+  opacity: 0.9;
+}
+
+h3:before {
+  content: "### ";
+  color: green;
+  opacity: 0.7;
+}
+
+h4:before {
+  content: "#### ";
+  color: green;
+  opacity: 0.5;
+}
+
+h5:before {
+  content: "##### ";
+  color: green;
+  opacity: 0.4;
+}
+
+h6:before {
+  content: "###### ";
+  color: green;
+  opacity: 0.3;
+}
