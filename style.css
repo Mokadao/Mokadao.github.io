@@ -1,4 +1,11 @@
+
+body {
+  font-family: "Microsoft YaHei", Arial, sans-serif;
+}
+
+
 h1 {
+    font-family: "Impact", Arial, sans-serif;
     opacity: 1;
   }
   
@@ -41,8 +48,8 @@ h1 {
     margin-bottom: 0.5em;
   }
   
-  h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover {
-    background-color: #f1f1f1;
+  h2:hover, h3:hover, h4:hover, h5:hover, h6:hover, p:hover {
+    background-color: #e8f1ea;
   }
   
   h2, h3, h4, h5, h6 {
