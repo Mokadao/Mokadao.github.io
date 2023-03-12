@@ -3,6 +3,7 @@
   * CG工作流 
   * Blender
   * Reallusion
+  * Zbrush
   * UE5
 * FocusAreas
   * 个人管理
