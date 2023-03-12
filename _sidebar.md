@@ -1,4 +1,4 @@
-* <font color=#008000>DailyFlow</font>
+* <font color=#008000 face="Impact">DailyFlow</font>
 * CGTech
   * CG工作流 
   * Blender
