@@ -1,27 +1,27 @@
-* <font color=#008000 face="Impact" size=3>DailyFlow</font>
-* CGTech
+* <font color=#008000 face="Impact" size=4>DailyFlow</font>
+* <font color=#008000 face="Impact" size=4>CGTech</font>
   * CG工作流 
   * Blender
   * Reallusion
   * Zbrush
   * UE5
-* FocusAreas
+* <font color=#008000 face="Impact" size=4>FocusAreas</font>
   * 个人管理
   * 学习方法
   * 心理学
   * 内分泌脑科学与行为
-* Tools
+* <font color=#008000 face="Impact" size=4>Tools</font>
   * [🤖ChatGPT](/ProjectDocs/🤖ChatGPT.md)
   * 笔记类软件
     * Obsidian
-* Sheeps
-* Manuals
+* <font color=#008000 face="Impact" size=4>Sheeps</font>
+* <font color=#008000 face="Impact" size=4>Manuals</font>
   * [📡个人网站搭建](/ProjectDocs/📡个人网站搭建.md)
   * [📺Win系统](/ProjectDocs/📺Win系统.md)
   * Apple系列
   * [🍴字体](/ProjectDocs/🍴字体.md)
   * [🍩Markdown语法](/ProjectDocs/🍩Markdown语法.md)
-* PersonalRecords
+* <font color=#008000 face="Impact" size=4>PersonalRecords</font>
   * [💪健康](/ProjectDocs/💪健康.md)
   * [🖖健身](https://pdmars.super.site/sp)
   * [🏀篮球](/ProjectDocs/🏀篮球.md)
