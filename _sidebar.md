@@ -1,11 +1,13 @@
 * <font color=#008000 size=3>[DailyFlow]</font>
 * <font color=#008000 size=3>[CGTech]</font>
-  * CG工作流 
-  * Blender
-  * Reallusion
-  * Zbrush
-  * UE5
+  * 🍔CG工作流 
+  * 🍩Blender
+  * 🥐Reallusion
+  * 🌮Zbrush
+  * 🍓UE5
+  * [🥝StableDiffusion](/ProjectDocs/🥝StableDiffusion.md)
 * <font color=#008000 size=3>[FocusAreas]</font>
+  * AI&AI绘画
   * 个人管理
   * 学习方法
   * 心理学
@@ -20,7 +22,7 @@
   * [📺Win系统](/ProjectDocs/📺Win系统.md)
   * 🍎Apple系列
   * [🍴字体](/ProjectDocs/🍴字体.md)
-  * [🍩Markdown语法](/ProjectDocs/🍩Markdown语法.md)
+  * [🎲Markdown语法](/ProjectDocs/🎲Markdown语法.md)
 * <font color=#008000 size=3>[PersonalRecords]</font>
   * [💪健康](/ProjectDocs/💪健康.md)
   * [🖖健身](https://pdmars.super.site/sp)
