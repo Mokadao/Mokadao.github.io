@@ -2,7 +2,7 @@
 * <font color=#008000 size=3>[CGTech]</font>
   * 🍔CG工作流 
   * 🍩Blender
-  * 🥐Reallusion
+  * [🥐Reallusion](/ProjectDocs/🥐Reallusion.md)
   * 🌮Zbrush
   * 🍓UE5
   * [🥝StableDiffusion](/ProjectDocs/🥝StableDiffusion.md)

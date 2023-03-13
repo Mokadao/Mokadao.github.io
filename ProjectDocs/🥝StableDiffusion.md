@@ -8,7 +8,20 @@ Stable Diffusion是一款功能异常强大的AI图片生成器。它不仅支�
 ## 插件
 ### Lora
 
-### OpenPose编辑器
+### ControlNet
+**安装**
+- 需要下载预训练基础模型
+- 下载后放到webUI目录下的extensions\sd-webui-controlnet\mods下
+
+基础功能
+
+
+#### OpenPose编辑器
+
+#### seg语义分割
+
+### DreamBooth
+
 
 
 ## Stable Diffusion WebUI
@@ -179,3 +192,6 @@ Linux下，找到`#export COMMANDLINE_ARGS=""`这一行，去掉行首的“#”
 
 
 ### 插件使用
+
+在extensions搜索安装
+
