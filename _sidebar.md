@@ -14,7 +14,7 @@
   * [🤖ChatGPT](/ProjectDocs/🤖ChatGPT.md)
   * 笔记类软件
     * Obsidian
-* <font color=#008000 size=3>[Sheeps](https://pdmars.super.site/sp)</font>
+* <font color=#008000 size=3><a href="http://www.baidu.com">[Sheeps]</a></font>
 * <font color=#008000 size=3>[Manuals]</font>
   * [📡个人网站搭建](/ProjectDocs/📡个人网站搭建.md)
   * [📺Win系统](/ProjectDocs/📺Win系统.md)
