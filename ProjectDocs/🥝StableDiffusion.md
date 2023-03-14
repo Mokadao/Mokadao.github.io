@@ -2,11 +2,12 @@
 Stable Diffusion是一款功能异常强大的AI图片生成器。它不仅支持生成图片，使用各种各样的模型来达到你想要的效果，还能训练你自己的专属模型。
 
 
-## 模型
-
 
 ## 插件
+
+checkpoint merge：放在stable diffusion根目录\models\Stable-diffusion
 ### Lora
+lora：放在stable diffusion根目录\models\Lora
 
 ### ControlNet
 **安装**

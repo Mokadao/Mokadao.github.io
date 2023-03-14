@@ -5,9 +5,10 @@
   * [🥐Reallusion](/ProjectDocs/🥐Reallusion.md)
   * 🌮Zbrush
   * 🍓UE5
+  * [🍺AI绘画](/ProjectDocs/🍺AI绘画.md)
   * [🥝StableDiffusion](/ProjectDocs/🥝StableDiffusion.md)
 * <font color=#008000 size=3>[FocusAreas]</font>
-  * AI&AI绘画
+  * AI
   * 个人管理
   * 学习方法
   * 心理学
