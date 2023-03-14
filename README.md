@@ -12,3 +12,7 @@
 ---
 
 ![Unsplash](https://source.unsplash.com/random)
+
+---
+
+我的防弹玻璃阻挡你的凶器。  《纯正好货》
