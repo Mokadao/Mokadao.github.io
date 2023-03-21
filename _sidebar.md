@@ -9,7 +9,8 @@
   * [🥝StableDiffusion](/ProjectDocs/🥝StableDiffusion.md)
 * <font color=#008000 size=3>[FocusAreas]</font>
   * AI
-  * 个人管理
+  * [🍳自我管理](/ProjectDocs/🍳自我管理.md)
+  * [🍖项目管理与职业生涯](/ProjectDocs/🍖项目管理与职业生涯.md)
   * 学习方法
   * 心理学
   * 内分泌脑科学与行为
