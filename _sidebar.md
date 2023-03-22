@@ -1,6 +1,6 @@
 * <font color=#008000 size=3>[DailyFlow]</font>
 * <font color=#008000 size=3>[CGTech]</font>
-  * 🍔CG工作流 
+  * 🍔CG工作流
   * 🍩Blender
   * [🥐Reallusion](/ProjectDocs/🥐Reallusion.md)
   * 🌮Zbrush
@@ -16,8 +16,7 @@
   * 内分泌脑科学与行为
 * <font color=#008000 size=3>[Tools]</font>
   * [🤖ChatGPT](/ProjectDocs/🤖ChatGPT.md)
-  * 笔记类软件
-    * Obsidian
+  * [📑笔记软件](/ProjectDocs/📑笔记软件.md)
 * <a href="http://www.baidu.com"><font color=#008000 size=3>[Sheeps]</font></a>
 * <font color=#008000 size=3>[Manuals]</font>
   * [📡个人网站搭建](/ProjectDocs/📡个人网站搭建.md)

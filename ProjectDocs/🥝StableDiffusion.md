@@ -10,6 +10,8 @@ checkpoint merge：放在stable diffusion根目录\models\Stable-diffusion
 lora：放在stable diffusion根目录\models\Lora
 
 ### ControlNet
+ControlNet是一种神经网络结构，通过添加额外的条件来控制扩散模型。它将神经网络块的权重复制到“锁定”副本和“可训练”副本中。可训练的副本学习您的条件。
+
 **安装**
 - 需要下载预训练基础模型
 - 下载后放到webUI目录下的extensions\sd-webui-controlnet\mods下
@@ -196,3 +198,6 @@ Linux下，找到`#export COMMANDLINE_ARGS=""`这一行，去掉行首的“#”
 
 在extensions搜索安装
 
+
+
+## DiffusionBee for MAC

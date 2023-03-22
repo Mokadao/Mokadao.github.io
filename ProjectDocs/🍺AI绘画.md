@@ -1,7 +1,22 @@
 
 ## 工具
 
-[[🥝StableDiffusion]]
+### [[🥝StableDiffusion]]
+
+### Midjourney 
+- 原来是Discord开发的，直接在discord频道用
+
+### NovelAI 二次元
+资料
+- NovelAI 本地部署配置教程（附优化） AI画二次元美少女|･ω･｀) - 范滇东的文章 - 知乎 https://zhuanlan.zhihu.com/p/571731191
+- 二次元AI作画网站NovelAI使用教程 - 靠谱的赳晨的文章 - 知乎 https://zhuanlan.zhihu.com/p/571196055
+- AI发展感觉对绘圈冲击太大了怎么办? - moerabpit的回答 - 知乎 https://www.zhihu.com/question/557600073/answer/2706431565
+- [AI绘画 【Stable Diffusion】 NovelAI 整合包 解压即用_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1aN4y1A7j1/?spm_id_from=333.999.0.0&vd_source=453933dd6891757733da4e4288779255)
+
+### Waifu2 在线放大低像素图片
+[waifu2x (udp.jp)](http://waifu2x.udp.jp/)
+
+
 
 ## 文件类型
 .ckpt  .pt .safetesors
