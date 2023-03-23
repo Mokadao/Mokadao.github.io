@@ -41,16 +41,23 @@
             subMaxLevel: 3,
             // 小屏设备下合并导航栏到侧边栏
             mergeNavbar: true,
-            // 添加Table of Contents
+
         }
-        window.$docsify = {
-  toc: {
-    scope: '.markdown-section',
-    headings: 'h1, h2, h3, h4, h5, h6',
-    title: 'Table of Contents',
-  },
-}
+       
     </script>
+
+    <script>
+        // 添加Table of Contents
+         window.$docsify = {
+            toc: {
+                scope: '.markdown-section',
+                headings: 'h1, h2, h3, h4, h5, h6',
+                title: 'Table of Contents',
+            },
+        }
+
+    </script>
+
     <script>
         // 搜索配置(url：https://docsify.js.org/#/zh-cn/plugins?id=%e5%85%a8%e6%96%87%e6%90%9c%e7%b4%a2-search)
         window.$docsify = {
