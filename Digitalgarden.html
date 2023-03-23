@@ -52,15 +52,28 @@
     </script>
 
     <script>
-        //字数统计
-        count:{
-            countable:true,
-            fontsize:'0.9em',
-            color:'rgb(90,90,90)',
-            language:'chinese'
-        }
-        // 搜索配置(url：https://docsify.js.org/#/zh-cn/plugins?id=%e5%85%a8%e6%96%87%e6%90%9c%e7%b4%a2-search)
+        
+        
         window.$docsify = {
+                //字数统计
+            count:{
+                countable:true,
+                fontsize:'0.9em',
+                color:'rgb(90,90,90)',
+                language:'chinese'
+            }
+                        // 分页导航
+            pagination: {
+                previousText: '上一章节',
+                // or
+                nextText: {
+                '/en/': 'NEXT',
+                '/': '下一章节'
+                },
+                crossChapter: true,
+                crossChapterText: true,
+            },
+            // 搜索配置(url：https://docsify.js.org/#/zh-cn/plugins?id=%e5%85%a8%e6%96%87%e6%90%9c%e7%b4%a2-search)
             search: {
                 maxAge: 86400000,// 过期时间，单位毫秒，默认一天
                 paths: auto,// 注意：仅适用于 paths: 'auto' 模式
@@ -109,10 +122,9 @@
     <!-- Disque评论系统 
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script>
     -->
-    <!-- 分页导航插件
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <!-- 分页导航插件 -->
     <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
-     -->
+
     <!-- Gitalk -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
