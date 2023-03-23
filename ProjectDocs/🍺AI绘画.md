@@ -1,5 +1,6 @@
+https://www.notion.so/pdao/AI-a0c12a534e7a46ab88f568bc65f5a39f?pvs=4
 
-## 工具
+## [工具](https://www.notion.so/pdao/b440ca8ad1bb40009288fba799b48094?v=e306ffa11cd74f82abe2f1445de10bf1)
 
 ### [[🥝StableDiffusion]]
 
