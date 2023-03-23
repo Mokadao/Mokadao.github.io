@@ -101,7 +101,7 @@
             //最后更新时间
             timeUpdater: {
                 text: "<div align='center' width='200px' style='color:gray;font-size:10px'>-------------- 最后更新时间:&emsp;{docsify-updated} --------------</div>",
-                formatUpdated: "{YYYY}/{MM}/{DD}",
+                formatUpdated: "{YYYY}-{MM}-{DD} {HH}:{mm}:{ss}",
                 whereToPlace: "top"  // "top" or "bottom", default to "bottom"
             },
         }
@@ -158,9 +158,9 @@
     -->
     <!-- 阅读进度 -->
     <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
-    <!-- 最后更新时间 
+    <!-- 最后更新时间  -->
     <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
-    -->
+   
     <!-- 侧边目录插件 -->
     <script src="https://cdn.jsdelivr.net/npm/mangodoc-toc@1.0.1/dist/mangodoc-toc.min.js"></script> 
 </body>
