@@ -94,6 +94,11 @@
                 color: "var(--theme-color,#42b983)",
                 height: "3px",
             }
+            //最后更新时间
+            timeUpdater: {
+                text: ">Last Modify: {docsify-updated}",
+                formatUpdated: "{YYYY}/{MM}/{DD}",
+            },
         }
     </script>
 
@@ -136,6 +141,8 @@
     <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
     <!-- 阅读进度 -->
     <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
+    <!-- 最后更新时间 -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
 </body>
 
 </html>
