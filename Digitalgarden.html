@@ -19,6 +19,8 @@
     <!-- 添加Table of Contents
     <link rel="stylesheet" href="https://unpkg.com/docsify-toc@1.0.0/dist/toc.css">
     -->
+    <!-- Gitalk -->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
 </head>
 
 <body>
@@ -43,7 +45,7 @@
             // 小屏设备下合并导航栏到侧边栏
             mergeNavbar: true,
             // 添加Disqus评论系统支持
-            disqus: 'shortname'
+            //disqus: 'shortname'
             // 添加Table of Contents
         }
        
@@ -75,6 +77,20 @@
             }
         }
     </script>
+
+    <!-- Gitalk -->
+    <script>
+        const gitalk = new Gitalk({
+        clientID: 'Github Application Client ID',
+        clientSecret: 'Github Application Client Secret',
+        repo: 'Github repo',
+        owner: 'Github repo owner',
+        admin: ['Github repo collaborators, only these guys can initialize github issues'],
+        // facebook-like distraction free mode
+        distractionFreeMode: false
+        })
+    </script>
+
     <!-- docsify的js依赖 -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
     <!-- emoji表情支持 -->
@@ -90,13 +106,16 @@
     -->
     <!-- 字数统计 -->
     <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
-    <!-- Disque评论系统 -->
+    <!-- Disque评论系统 
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script>
-    
+    -->
     <!-- 分页导航插件
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
      -->
+    <!-- Gitalk -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
 </body>
 
 </html>
