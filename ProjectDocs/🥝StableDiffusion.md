@@ -6,10 +6,12 @@ Stable Diffusion是一款功能异常强大的AI图片生成器。它不仅支�
 ## 插件
 
 checkpoint merge：放在stable diffusion根目录\models\Stable-diffusion
+Lora存放目录：stable diffusion根目录\models\Lora
 ### Lora
 lora：放在stable diffusion根目录\models\Lora
 
 ### ControlNet
+controlnet存放目录：stable diffusion根目录\extensions\sd-webui-controlnet\models
 ControlNet是一种神经网络结构，通过添加额外的条件来控制扩散模型。它将神经网络块的权重复制到“锁定”副本和“可训练”副本中。可训练的副本学习您的条件。
 
 **安装**
@@ -26,6 +28,11 @@ ControlNet是一种神经网络结构，通过添加额外的条件来控制扩�
 ### DreamBooth
 
 
+## 脚本
+
+### Face Editor
+[ototadana/sd-face-editor: Face editor for Stable Diffusion (github.com)](https://github.com/ototadana/sd-face-editor#step-1)
+Face Editor存放目录：stable diffusion根目录\scripts
 
 ## Stable Diffusion WebUI
 ### 安装
