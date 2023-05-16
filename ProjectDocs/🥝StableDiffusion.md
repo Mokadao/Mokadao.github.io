@@ -1,12 +1,15 @@
 ## 关于
 Stable Diffusion是一款功能异常强大的AI图片生成器。它不仅支持生成图片，使用各种各样的模型来达到你想要的效果，还能训练你自己的专属模型。
 
+下面主要是关于 根据 Stable Diffusion WebUI 
 
+
+## 模型
+checkpoint merge ：放在stable diffusion根目录\models\Stable-diffusion
+Lora ：存放目录：stable diffusion根目录\models\Lora
 
 ## 插件
 
-checkpoint merge：放在stable diffusion根目录\models\Stable-diffusion
-Lora存放目录：stable diffusion根目录\models\Lora
 ### Lora
 lora：放在stable diffusion根目录\models\Lora
 
@@ -25,6 +28,10 @@ ControlNet是一种神经网络结构，通过添加额外的条件来控制扩�
 
 #### seg语义分割
 
+
+#### Tile 模型
+高清生成  高清修复
+
 ### DreamBooth
 
 
@@ -34,7 +41,7 @@ ControlNet是一种神经网络结构，通过添加额外的条件来控制扩�
 [ototadana/sd-face-editor: Face editor for Stable Diffusion (github.com)](https://github.com/ototadana/sd-face-editor#step-1)
 Face Editor存放目录：stable diffusion根目录\scripts
 
-## Stable Diffusion WebUI
+## Stable Diffusion WebUI 安装
 ### 安装
 
 WebUI使得Stable Diffusion有了一个更直观的用户界面，更适合新手用户。
@@ -204,6 +211,8 @@ Linux下，找到`#export COMMANDLINE_ARGS=""`这一行，去掉行首的“#”
 ### 插件使用
 
 在extensions搜索安装
+
+
 
 
 
